@@ -1,0 +1,8 @@
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Program\Program\bin\Debug\Program.exe.config
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Program\Program\bin\Debug\Program.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Program\Program\bin\Debug\Program.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Program\Program\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Program\Program\obj\Debug\Program.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Program\Program\obj\Debug\Program.pdb

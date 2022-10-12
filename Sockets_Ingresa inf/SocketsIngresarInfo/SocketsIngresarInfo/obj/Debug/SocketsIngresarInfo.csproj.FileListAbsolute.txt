@@ -1,0 +1,8 @@
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\SocketsIngresarInfo\SocketsIngresarInfo\bin\Debug\SocketsIngresarInfo.exe.config
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\SocketsIngresarInfo\SocketsIngresarInfo\bin\Debug\SocketsIngresarInfo.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\SocketsIngresarInfo\SocketsIngresarInfo\bin\Debug\SocketsIngresarInfo.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\SocketsIngresarInfo\SocketsIngresarInfo\obj\Debug\SocketsIngresarInfo.csproj.AssemblyReference.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\SocketsIngresarInfo\SocketsIngresarInfo\obj\Debug\SocketsIngresarInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\SocketsIngresarInfo\SocketsIngresarInfo\obj\Debug\SocketsIngresarInfo.csproj.CoreCompileInputs.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\SocketsIngresarInfo\SocketsIngresarInfo\obj\Debug\SocketsIngresarInfo.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\SocketsIngresarInfo\SocketsIngresarInfo\obj\Debug\SocketsIngresarInfo.pdb

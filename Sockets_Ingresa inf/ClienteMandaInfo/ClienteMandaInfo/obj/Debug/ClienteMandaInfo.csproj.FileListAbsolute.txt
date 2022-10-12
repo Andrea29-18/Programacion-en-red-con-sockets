@@ -1,0 +1,8 @@
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\ClienteMandaInfo\ClienteMandaInfo\bin\Debug\ClienteMandaInfo.exe.config
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\ClienteMandaInfo\ClienteMandaInfo\bin\Debug\ClienteMandaInfo.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\ClienteMandaInfo\ClienteMandaInfo\bin\Debug\ClienteMandaInfo.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\ClienteMandaInfo\ClienteMandaInfo\obj\Debug\ClienteMandaInfo.csproj.AssemblyReference.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\ClienteMandaInfo\ClienteMandaInfo\obj\Debug\ClienteMandaInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\ClienteMandaInfo\ClienteMandaInfo\obj\Debug\ClienteMandaInfo.csproj.CoreCompileInputs.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\ClienteMandaInfo\ClienteMandaInfo\obj\Debug\ClienteMandaInfo.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Ingresa inf\ClienteMandaInfo\ClienteMandaInfo\obj\Debug\ClienteMandaInfo.pdb
