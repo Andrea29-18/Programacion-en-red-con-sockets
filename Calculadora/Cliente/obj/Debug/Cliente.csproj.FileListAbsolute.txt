@@ -1,0 +1,33 @@
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Cliente\bin\Debug\Cliente.exe
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Cliente\bin\Debug\Cliente.pdb
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Cliente\bin\Debug\Contracts.dll
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Cliente\bin\Debug\Contracts.pdb
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Cliente\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Cliente\obj\Debug\Cliente.exe
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Cliente\obj\Debug\Cliente.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Cliente\bin\Debug\Cliente.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Cliente\bin\Debug\Cliente.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Cliente\bin\Debug\Contracts.dll
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Cliente\bin\Debug\Contracts.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Cliente\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Cliente\obj\Debug\Cliente.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Cliente\obj\Debug\Cliente.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Cliente\bin\Debug\Cliente.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Cliente\bin\Debug\Cliente.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Cliente\bin\Debug\Contracts.dll
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Cliente\bin\Debug\Contracts.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Cliente\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Cliente\obj\Debug\Cliente.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Cliente\obj\Debug\Cliente.pdb

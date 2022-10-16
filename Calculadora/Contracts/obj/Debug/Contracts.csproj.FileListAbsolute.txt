@@ -1,0 +1,18 @@
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Contracts\bin\Debug\Contracts.dll
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Contracts\bin\Debug\Contracts.pdb
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Contracts\obj\Debug\Contracts.dll
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Calculadora\Contracts\obj\Debug\Contracts.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Contracts\bin\Debug\Contracts.dll
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Contracts\bin\Debug\Contracts.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Contracts\obj\Debug\Contracts.dll
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets\Programacion-en-red-con-sockets\Calculadora\Contracts\obj\Debug\Contracts.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Contracts\bin\Debug\Contracts.dll
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Contracts\bin\Debug\Contracts.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Contracts\obj\Debug\Contracts.dll
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Calculadora\Contracts\obj\Debug\Contracts.pdb
