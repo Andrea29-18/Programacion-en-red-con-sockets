@@ -1,0 +1,8 @@
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Pedir_Hora\ClienteHora\ClienteHora\bin\Debug\ClienteHora.exe.config
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Pedir_Hora\ClienteHora\ClienteHora\bin\Debug\ClienteHora.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Pedir_Hora\ClienteHora\ClienteHora\bin\Debug\ClienteHora.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Pedir_Hora\ClienteHora\ClienteHora\obj\Debug\ClienteHora.csproj.AssemblyReference.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Pedir_Hora\ClienteHora\ClienteHora\obj\Debug\ClienteHora.csproj.SuggestedBindingRedirects.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Pedir_Hora\ClienteHora\ClienteHora\obj\Debug\ClienteHora.csproj.CoreCompileInputs.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Pedir_Hora\ClienteHora\ClienteHora\obj\Debug\ClienteHora.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Socketes_ejemplos\Programacion-en-red-con-sockets\Pedir_Hora\ClienteHora\ClienteHora\obj\Debug\ClienteHora.pdb

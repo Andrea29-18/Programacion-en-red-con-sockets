@@ -54,7 +54,7 @@ namespace Servidor
                         if (data.IndexOf(".") > -1)
                         {
                             break;
-                        }
+                        } 
                     }
 
                     List<string> list = new List<string>();
