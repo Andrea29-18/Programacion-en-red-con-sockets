@@ -51,7 +51,7 @@ namespace Servidor
                         int numByte = clientSocket.Receive(bytes);
 
                         data += Encoding.ASCII.GetString(bytes, 0, numByte);
-                        if (data.IndexOf(".") > -1)
+                        if (data.IndexOf(" ") > -1)
                         {
                             break;
                         } 
@@ -59,7 +59,7 @@ namespace Servidor
 
                     List<string> list = new List<string>();
                     list = data.Split(' ').ToList();
-                    list.Remove(".");
+                    list.Remove(" ");
                     ProductService calculadora = new ProductService();
                     if (list.Contains("+"))
                     {

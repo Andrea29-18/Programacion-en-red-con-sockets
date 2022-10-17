@@ -52,7 +52,7 @@ namespace Cliente
 
 
                     Console.WriteLine("You can perform basic operations\n");
-                    Console.WriteLine("By default, each element must be separated by a space and have a period at the en, examele: 3 + 2 .");
+                    Console.WriteLine("By default, each element must be separated by a space, examele: 3 + 2 ");
 
                     Console.WriteLine("Additio\n");
                     Console.WriteLine("Subtraction\n");
